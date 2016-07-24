@@ -1,0 +1,29 @@
+Microsoft REST API Guidelines
+微软 REST API 指南
+
+Microsoft REST API Guidelines Working Group
+微软 REST API 指南工作组
+
+Document editors
+文档译写人
+
+Microsoft REST API Guidelines
+微软 REST API 指南
+
+Abstract
+摘要
+
+The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
+微软 REST API 指南作为设计规范，鼓励应用开发人员通过 RESTful HTTP 接口来访问资源。
+
+To provide the smoothest possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive.
+为了给遵循 Microsoft REST API 指南的平台的开发者提供尽可能的平滑体验，REST APIs 应该遵循始终如一的设计准则，即：可以让用户简单和直观的的使用它们。
+
+This document establishes the guidelines Microsoft REST APIs SHOULD follow so RESTful interfaces are developed consistently.
+这个文档确立了 Microsoft REST APIs 指南应该遵循 RESTful 接口开发的一致性。
+
+Introduction
+引言
+
+Recommended reading
+推荐阅读
